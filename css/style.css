@@ -521,8 +521,10 @@ font-weight:700;
 }
 .gallery1 {
 position:relative;
-max-height: 320px;
+height: 320px;
 overflow: hidden;
+margin-bottom: 20px;
+border: 1px solid #f5f5f5
 }
 .gallery1 .textbox {
 width:100%;
